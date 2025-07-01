@@ -1,0 +1,7 @@
+# Balanced workload - simulates typical web application
+writes: 50
+reads: 50
+key_size: 64
+value_size: 2048
+dataset_size: 5GB
+duration: 180

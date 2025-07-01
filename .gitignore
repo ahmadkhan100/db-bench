@@ -1,0 +1,7 @@
+/target
+/Cargo.lock
+*.db
+*.sst
+*.log
+/results
+/tmp
