@@ -82,7 +82,7 @@ async fn run_benchmark(
     let mut results = Vec::new();
     
     for engine_type in engines {
-        println!("\nBenchmarking {:?}...", engine_type);
+        println!("\nRunning benchmark for {:?}", engine_type);
         
         // Create temp directory for this engine
         let temp_dir = tempfile::tempdir()?;
