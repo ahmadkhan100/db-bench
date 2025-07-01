@@ -1,7 +1,0 @@
-# Heavy write workload - simulates logging/analytics use case
-writes: 95
-reads: 5
-key_size: 32
-value_size: 4096
-dataset_size: 10GB
-duration: 300
